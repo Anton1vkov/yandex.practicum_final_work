@@ -1,0 +1,6 @@
+﻿.pytest/
+.venv/
+.pytest_cache/
+__pycache__/
+.image-1.png
+.vscode/
