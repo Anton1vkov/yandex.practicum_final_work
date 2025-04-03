@@ -9,8 +9,4 @@
 ### Используемые ручки:
 
 - Получить заказ по его номеру ("/v1/orders/track?=")
-- Создать заказ ("/api/v1/orders")# yandex_final_work
-# yandex_final_work
-# yandex.practicum_final_work
-# yandex.practicum_final_work
-# yandex.practicum_final_work
+- Создать заказ ("/api/v1/orders")
